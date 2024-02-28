@@ -1,0 +1,127 @@
+.main {
+    width: 960px;
+    min-height: 600px;
+    border: 3px rgb(255, 136, 0) solid;
+    padding: 5px;
+    margin: 3px auto;
+    background-color: rgb(0, 115, 255);
+}
+.header {
+    width: 938px;
+    height: 200px;
+    border: 3px navy solid;
+    padding: 5px;
+    margin: 3px auto;
+    background-color: rgb(0, 255, 174);
+
+}
+.header h1 {
+    text-align: center;
+   font-size: 50px;   
+   align-items: center;
+   margin-top: 73px;
+   color: #9c006b;
+   
+}
+
+.topnav {
+    width: 938px;
+    height: 30px;
+    border: 3px rgb(247, 247, 247) solid;
+    padding: 5px;
+    margin: 3px auto;
+    background-color: rgb(76, 243, 243);
+    font color: #000;
+}
+nav {
+    align-items: center;
+    text-align: center;
+}
+nav a {
+     font-size: 28px;
+     align-items: center;
+     text-align: center;
+     margin: 30px;
+     text-decoration: none;
+     color: #864343;  
+}
+nav a:hover{
+    background-color: rgb(255, 241, 235);
+    border-radius: 3px orange solid ;
+}
+.topnav ul {
+    list-style: none;
+}
+.content {
+    width: 938px;
+    min-height: 500px;
+    border: 3px navy solid;
+    padding: 5px;
+    margin: 3px auto;
+    background-color: rgb(255, 255, 231);
+}
+.sectionone {
+    width: 293px;
+    min-height: 478px;
+    border: 3px rgba(255, 0, 166, 0.404) solid;
+    padding: 5px;
+    margin: 3px auto;
+    float: left;
+    font-size: 14px;
+}
+.sectionone h2 {
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(255, 156, 120);
+    border-radius: 10px;
+    color: #fff;
+}
+
+.sectiontwo {
+    width: 293px;
+    min-height: 478px;
+    border: 3px rgb(140, 255, 201) solid;
+    padding: 5px;
+    margin: 3px auto;
+    float: left;
+    font-size: 14px;
+}
+.sectiontwo h2 {
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(180, 52, 5);
+    border-radius: 10px;
+    color: #fff;
+}
+.sectionthree {
+    width: 293px;
+    min-height: 478px;
+    border: 3px rgb(225, 0, 255) solid;
+    padding: 5px;
+    margin: 3px auto;
+    float: left;
+    font-size: 14px;
+}
+.sectionthree h2 {
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(133, 69, 45);
+    border-radius: 10px;
+      color: #fff;
+}
+.footer {
+    width: 938px;
+    min-height: 150px;
+    border: 3px rgb(105, 105, 255) solid;
+    padding: 5px;
+    margin: 3px auto;
+}
+.footer p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+}
